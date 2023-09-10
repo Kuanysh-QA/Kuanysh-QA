@@ -6,29 +6,28 @@
 
 
 
-<h3>Навыки и технологии</h3>
-<p>Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</p>
+><h3>Навыки и технологии</h3>
+<p><em>Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
+<br>SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</em></p>
 
-<h3>Проект</h3>
+><h3>Проект</h3>
 <br> Добавили в календарь новый элемент — личные события для учителей от Skyeng
 
-<br><h3>Что нужно было сделать:</h3>
+><h3>Что нужно было сделать:</h3>
 
 <br>1.Тестирования требования
 <br>2. Тестирования нового функционала
 
-<br><h3>Примени следующие виды тестирования:</h3>
+><h3>Примени следующие виды тестирования:</h3>
 
-<br>1. Smoke тестирование
+<ol>
+  <li>Smoke тестирование</li>
+  <li>Функциональное тестирование</li>
+  <li>Приемочное тестирование</li>
+  <li>Регрессионное</li>
+  <li>Тестирование API</li>
+</ol>
 
-<br>2. Функциональное тестирование
-
-<br>3. Приемочное тестирование
-
-<br>4. Регрессионное
-
-<br>5. Тестирование API
 
 <br>[Ссылка на проект
 ](https://bagqareport.atlassian.net/l/cp/B5pRbcCC)
@@ -37,9 +36,9 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</p>
 <br>Пароль 02101985tkD!
 
 
-<h3>Контактная информация</h3>
-<br>Email: tkd85@mail.ru
-<br>LinkedIn: www.linkedin.com/in/kuanyshqa
+>#### <h3>Контактная информация</h3>
+> - Email: tkd85@mail.ru
+> - LinkedIn: www.linkedin.com/in/kuanyshqa
 
 
 <!--
